@@ -1,0 +1,2 @@
+# XALGO2.0
+XALGO2.0 est un algorithme codé pour aider l'utilisateur à mieux comprendre les marchés et faire plus de profits. Je ne recommende pas de l'utiliser sur un chart qui est très rapide(1 min par exemple).  Personellement, je trouve que l'indicateur est très bon sur le timeframe 1h. Pour l'utiliser vous devez copiez le code dans tradingview. Si vous ne savez pas comment, il y'a plein de vidéo sur youtube qui expliquent comment le faire.
