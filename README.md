@@ -8,3 +8,6 @@ seulement sur les flèches rouges ou vertes. Ceux-ci sont seulement des entrées
 # Vous avez une idée?
 Si vous souhaitez modifier le script à votre avantage et y ajouter des fonctions, je ne vois aucun inconvénients à ce que vous modifiez le scrip vous même.
 Cependant, si vous trouvez que votre idée est bonne, j'aimerais sa que vous m'en fassiez part pour que je puisse ajouter la fonction à mon script :)
+# Comment optimiser son utilisation de l'algorithme
+Je vous recommende fortement, selon votre style de trading, de changer le timeframe de votre graphique selon le volume de l'instrument de trading
+que vous être en train d'analyser. Cela va vous aider à obtenir de meilleurs résultats.
